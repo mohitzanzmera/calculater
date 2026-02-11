@@ -1,0 +1,258 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+body{
+    background: #64f5c8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-family: Arial;
+}
+.calculater{
+    height:310px;
+    width:370px;
+    background-color: black;
+
+}
+
+
+#display{
+    width: 300px;
+    height: 70px;
+    font-size: 28px;
+    margin-bottom: 25px;
+    border-radius: 15px;
+    padding: 10px;
+    text-align: right;
+    background-color: azure;
+
+
+}
+
+.btn1{
+    width:60px;
+    height:30px;
+     border-radius: 50px;
+     color:black;
+     border: none;
+     font-size: 1.3rem;
+     font-weight: bold;
+     left:15px;
+     position: relative;
+    
+
+}
+
+.btn2{
+    width:60px;
+    height:30px;
+    border-radius: 50px;
+    font-size: 1.3rem;
+    font-weight: bold;
+    border:none;
+     left:15px;
+    position: relative;
+    margin-left: 200px;
+    
+
+}
+
+.btn3{
+    width:60px;
+    height:30px;
+    border-radius: 50px;
+    border: none;
+    font-size: 1.3rem;
+    font-weight: bold;
+     left:15px;
+    position: relative;
+    
+    
+
+}
+
+.btn4{
+    width:60px;
+    height:30px;
+    border-radius: 50px;
+    background-color: orange;
+    color:white;
+    border: none;   
+    font-size: 1.3rem;
+    font-weight: bold;
+     left:15px;
+    position: relative;
+    
+    
+}
+
+.btn5{
+    width:60px;
+    height:30px;
+    border-radius: 50px;
+    font-size: 1.3rem;
+    font-weight: bold;
+    border:none;
+    left:15px;
+    position: relative;
+    
+}
+
+.btn6{
+    width:60px;
+    height:30px;
+    border-radius: 50px;
+    font-size: 1.3rem;
+    font-weight: bold;
+    border:none;
+     left:15px;
+    position: relative;
+    
+}
+
+.btn7{
+    width:60px;
+    height:30px;
+    border-radius: 50px;
+    font-size: 1.3rem;
+    font-weight: bold;
+    border:none;
+     left:15px;
+    position: relative;
+    
+   
+}
+
+.btn8{
+    width:60px;
+    height:30px;
+    border-radius: 50px;
+    font-size: 1.3rem;
+    font-weight: bold;
+    border:none;
+     left:15px;
+    position: relative;
+    
+   
+}
+
+.btn9{
+    width:60px;
+    height:30px;
+    border-radius: 50px;
+    font-size: 1.3rem;
+    font-weight: bold;
+    border:none;
+     left:15px;
+    position: relative;
+    
+}
+
+.btn10{
+    width:60px;
+    height:30px;
+    left:15px;
+    position: relative;
+    border-radius: 50px;
+    font-size: 1.3rem;
+    font-weight: bold;
+    border:none;
+
+}
+
+.btn11{
+    width:60px;
+    height:30px;
+    border-radius: 50px;
+    font-size: 1.3rem;
+    font-weight: bold;
+    border:none;
+    left:15px;
+    position: relative;
+    
+}
+
+.btn12{
+    width:60px;
+    height:30px;
+    border-radius: 50px;
+    font-size: 1.3rem;
+    font-weight: bold;
+    border:none;
+    left:15px;
+     position: relative;
+    
+}
+
+.btn13{
+    width:60px;
+    height:30px;
+    border-radius: 50px;
+    font-size: 1.3rem;
+    font-weight: bold;
+    border:none;
+     left:15px;
+    position: relative;
+    
+}
+
+.btn14{
+    width:60px;
+    height:30px;
+    border-radius: 50px;
+    font-size: 1.3rem;
+    font-weight: bold;
+    border:none;
+     left:15px;
+    position: relative;
+    
+}
+
+.btn15{
+    width:60px;
+    height:30px;
+    border-radius: 50px;
+    font-size: 1.3rem;
+    font-weight: bold;
+    border:none;
+     left:15px;
+    position: relative;
+    
+
+}
+
+.btn16{
+    width:60px;
+    height:30px;
+    border-radius: 50px;
+    font-size: 1.3rem;
+    font-weight: bold;
+    border:none;
+     left:15px;
+    position: relative;
+    
+
+}
+#s{
+    margin-bottom: 10px;
+    border-radius: 50px;
+    font-size: 1.3rem;
+    font-weight: bold;
+    border:none;
+    margin-left: 5px;
+    
+}
+button:hover{
+    background-color:chartreuse;
+    cursor: pointer;
+    transform: scale(1.05);
+}
+.calculater{
+    background: black;
+    padding: 40px;
+    border-radius: 30px;
+    box-shadow: 0 20px 40px rgba(0,0,0,0.4);
+}
